@@ -1,0 +1,14 @@
+tree
+insert   "+79001234567"    "Ivanov I.I"  
+tree
+insert "+79001234567"   "Pertov E.E."
+insert "+79001234568"   "Pertov E.E."
+tree
+insert "89001234566"   "Pertov E.V."
+tree
+insert "99001234566"   "Pertov E.K."
+tree
+delete "+79001234566"
+tree
+find "89001234568"
+tree

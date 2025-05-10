@@ -1,5 +1,3 @@
-#define TEST
-#ifndef TEST
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -153,7 +151,6 @@ int parsing(Database* database, FILE* inputFile, FILE* outputFile) {
 		if (!strlen(currentString)) {
 			continue;
 		}
-
 		char* string = currentString;
 		if (!strncmp(string, "insert", strlen("insert"))) {
 			int res = insert(database, skipSpaces(string + strlen("insert")));
@@ -200,13 +197,18 @@ int parsing(Database* database, FILE* inputFile, FILE* outputFile) {
 			}
 		}
 		else if (!strncmp(string, "tree", strlen("tree"))) {
-			int res = tree(database, outputFile);
-			if (res == MEMORY_ALLOCATION_ERROR) return MEMORY_ALLOCATION_ERROR;
+			if (*(skipSpaces(string + strlen("tree"))) != '\0')
+				fprintf(outputFile, "incorrect\n");
+			else {
+				int res = tree(database, outputFile);
+				if (res == MEMORY_ALLOCATION_ERROR) return MEMORY_ALLOCATION_ERROR;
+			}
 		}
 		else {
 			fprintf(outputFile, "incorrect\n");
 		}
 	}
+	return 0;
 }
 
 int insert(Database* database, char* string) {
@@ -285,17 +287,17 @@ void updateHeight(Tree* node) {
 
 Tree* balancing(Tree* node) {
 	int balance = isBalanced(node);
-	if (!balance) return node;
 	if (balance > 1) {
-		if (getHeight(node->leftTree->leftTree) > getHeight(node->leftTree->rightTree))
+		if (getHeight(node->leftTree->leftTree) >= getHeight(node->leftTree->rightTree))
 			return rotateLL(node);
 		return rotateLR(node);
 	}
 	if (balance < -1) {
-		if (getHeight(node->rightTree->rightTree) > getHeight(node->rightTree->leftTree))
+		if (getHeight(node->rightTree->rightTree) >= getHeight(node->rightTree->leftTree))
 			return rotateRR(node);
 		return rotateRL(node);
 	}
+	updateHeight(node);
 	return node;
 }
 int isBalanced(Tree* node) {
@@ -392,11 +394,10 @@ int deletion(Tree** current, Record* key) {
 
 			int res = deletion(swapNodePtr, (*swapNodePtr)->record);
 			if (res) return res;
-
-			updateHeight(*current);
-			*current = balancing(*current);
 		}
 	}
+	updateHeight(*current);
+	*current = balancing(*current);
 	return 0;
 }
 void copyRecord(Record* dst, Record* src) {
@@ -502,4 +503,3 @@ void printInfix(Tree* node, char** cursor) {
 	written = sprintf(*cursor, ")");
 	*cursor += written;
 }
-#endif

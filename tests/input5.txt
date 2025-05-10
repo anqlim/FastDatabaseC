@@ -1,0 +1,888 @@
+tree
+insert          "83997581220"                              "Vasiliev Dmitry Alexeevich"  
+tree  
+delete                         "85881778523"     
+tree   
+insert       "+78382595450"   "Bobrovsky Dmitry Evgenievich"   
+tree   
+insert          "83015499396"         "Alburov Anatoly Olegovich"    
+tree   
+insert        "81276522783"                              "Bobrovsky Ivan Evgenievich"     
+tree  
+find         "+76666465634"     
+insert                  "84313650002"               "Nosik Dmitry Vasilievich"    
+tree  
+insert               "86362519388"                       "Jukovsky Petr Alexandrovich"   
+tree  
+delete "+73508835692"  
+tree 
+insert               "+76933582551"                       "Juk Alexandr Vasilievich"     
+tree 
+insert           "87027376302"                     "Kulik Petr Anatolievich"  
+tree  
+find      "+75441490372" 
+insert              "+73508835692"                "Vasiliev Gleb Alexandrovich"    
+tree  
+find                 "+73515638239"   
+insert                  "+76791740595"              "Vodkin Oleg Glebovich"    
+tree  
+find                       "88984955725"   
+insert                             "85520825836"                      "Volkov Vasily Vasilievich" 
+tree 
+find      "+73264217544"   
+insert                    "+79367648042"                         "Alburov Dmitry Alexeevich"  
+tree  
+insert       "84980686008"   "Illarionov Vasily Evgenievich"    
+tree   
+find  "+73125807072" 
+insert                         "+79504006819"                 "Bobrovsky Vasily Fedorovich"   
+tree 
+delete      "86016063278"    
+tree 
+insert    "+71751178868"                             "Petrov Alexey Dmitrievich"   
+tree   
+delete                             "87995785910"  
+tree   
+insert                        "+78243099063"                             "Vasiliev Gleb Anatolievich" 
+tree 
+delete               "+71618720361"   
+tree  
+insert                       "+79428608926"         "Voblerov Timofey Anatolievich"    
+tree  
+insert                 "86156561723"                     "Bobrovsky Vasily Alexeevich" 
+tree  
+insert                             "+79367648042"                  "Juk Alexey Anatolievich"   
+tree   
+delete                "+75988782335"     
+tree   
+insert                        "89601420741"       "Alburov Petr Stanislavovich"  
+tree  
+insert      "+77192186501"                      "Ivanov Oleg Alexandrovich"  
+tree   
+delete                      "+75928895413"    
+tree 
+insert                     "+71618720361"               "Bobrovsky Alexandr Stanislavovich"     
+tree   
+find                    "83587291142"     
+insert       "82207129228"               "Vodkin Mihail Alexandrovich"     
+tree 
+delete    "+79182828877"     
+tree  
+insert               "+73508835692"                       "Suslikov Fedor Anatolievich"  
+tree   
+delete    "83435790394"     
+tree 
+insert                         "84172722548"                           "Alburov Oleg Anatolievich"  
+tree 
+insert            "+73530186795"             "Jukovsky Alexey Alexeevich" 
+tree 
+find                       "84970539382"    
+insert           "+74831617041"                "Kulik Alexandr Evgenievich"    
+tree 
+find                  "84379193189"    
+insert      "87027376302"          "Vodkin Stanislav Ivanovich" 
+tree  
+find             "82870583146" 
+insert               "85472430438"         "Ivanov Gleb Ivanovich"     
+tree 
+delete                 "+72322318824"     
+tree   
+insert                "+79428608926"                  "Suslikov Nikolay Alexeevich"   
+tree   
+find                           "+76666465634"    
+insert         "+77250653506"              "Homyakov Stanislav Nikolaevich"     
+tree   
+delete                       "84526134771"  
+tree 
+insert              "88294521807"               "Petrov Gleb Dmitrievich"     
+tree 
+insert                          "82719748313"                   "Bobrovsky Dmitry Dmitrievich"     
+tree  
+find                        "+75441490372"     
+insert   "+79428608926"             "Jukovsky Ivan Mihailovich" 
+tree   
+find       "+75988782335"  
+insert                             "+74474927407"                          "Nosik Ivan Nikolaevich"   
+tree  
+insert                             "84412940826"             "Nosik Vasily Mihailovich" 
+tree   
+delete             "82870583146"    
+tree   
+insert                    "82870583146"        "Alburov Vasily Ivanovich"     
+tree   
+delete                  "84970539382"     
+tree  
+insert                         "84313650002"    "Jukovsky Dmitry Petrovich"   
+tree 
+delete                   "81337895293"   
+tree   
+insert                   "+72719890217"                        "Homyakov Anatoly Fedorovich"   
+tree  
+find                         "84412940826"   
+insert         "87728969686"         "Illarionov Vasily Alexeevich" 
+tree  
+find                        "84526134771"    
+insert             "89183585696"     "Sidorov Alexey Nikolaevich"    
+tree   
+insert     "84613711766"              "Nosik Fedor Ivanovich"  
+tree 
+delete                          "+79428608926"    
+tree   
+insert                   "88244055625"                      "Nosik Timofey Alexeevich"    
+tree 
+insert                     "83693095872"             "Nosik Anatoly Petrovich"    
+tree   
+find  "+79504006819"   
+insert              "87443796100"                     "Homyakov Gleb Glebovich" 
+tree  
+delete                           "+71198570367"     
+tree   
+insert      "89935653595"             "Volkov Petr Alexeevich" 
+tree   
+delete                       "+79045199303"   
+tree  
+insert                              "84590566660"      "Petrov Mihail Vasilievich"  
+tree 
+delete     "84891619045"  
+tree  
+insert                    "+78649699780"                    "Vasiliev Gleb Alexandrovich"    
+tree 
+find    "+78097647748"   
+insert      "89838546691"        "Suslikov Fedor Vasilievich"   
+tree  
+delete    "+72101922192"     
+tree  
+insert "+79304978664"           "Vodkin Fedor Alexandrovich"     
+tree   
+find            "88294521807"   
+insert                  "88955846472"                         "Jukovsky Alexey Glebovich"     
+tree  
+delete            "+78032025424"  
+tree   
+insert "89358927355"               "Ivanov Evegeny Dmitrievich"   
+tree  
+insert                "+79182828877"  "Kulik Alexey Stanislavovich"   
+tree   
+delete                   "+72719890217"    
+tree 
+insert     "+78467622192"                              "Sidorov Fedor Timofeevich"  
+tree  
+insert        "89928708249"        "Jukovsky Evegeny Stanislavovich"  
+tree  
+find     "81337895293"  
+insert       "85472430438"         "Jukovsky Evegeny Ivanovich"    
+tree   
+insert     "82161551681"               "Vasiliev Petr Alexandrovich"   
+tree  
+insert   "84526134771"                       "Bobrovsky Mihail Timofeevich"  
+tree   
+find              "+78467622192"    
+insert             "89183585696"                           "Illarionov Stanislav Dmitrievich" 
+tree 
+insert                "+75988782335"     "Nosik Oleg Vasilievich" 
+tree  
+insert                             "88421411827"        "Volkov Mihail Nikolaevich" 
+tree   
+delete                           "+76225561187"   
+tree   
+insert                      "+73074481955" "Alburov Stanislav Nikolaevich"   
+tree   
+insert                     "83015499396"                       "Alburov Timofey Evgenievich" 
+tree  
+delete                 "+77250653506"   
+tree  
+insert                             "84125410081"            "Juk Timofey Dmitrievich" 
+tree 
+find                            "81878743541"   
+insert    "+73530186795"                  "Sidorov Stanislav Nikolaevich" 
+tree 
+insert                      "82719748313"   "Illarionov Alexandr Mihailovich"     
+tree   
+find                         "+77545704498" 
+insert                     "+71751178868"    "Juk Stanislav Evgenievich"    
+tree 
+delete         "86581985624"     
+tree  
+insert                        "83693095872"     "Ivanov Ivan Alexandrovich"  
+tree 
+insert      "81337895293"             "Illarionov Nikolay Fedorovich" 
+tree 
+insert "84412940826"                 "Jukovsky Alexandr Evgenievich"   
+tree  
+find                    "86581985624" 
+insert           "81878743541"                    "Jukovsky Nikolay Olegovich"   
+tree 
+insert                              "+76933582551"  "Alburov Anatoly Stanislavovich"    
+tree   
+insert    "+78274526870" "Suslikov Dmitry Alexeevich" 
+tree   
+find              "88984955725"  
+insert                   "88294521807"     "Voblerov Gleb Dmitrievich"    
+tree   
+insert                     "87027376302"            "Nosik Alexandr Alexandrovich"    
+tree  
+find        "+71450080224"  
+insert                       "+79428608926"                    "Sidorov Mihail Nikolaevich"     
+tree   
+delete   "84891619045"   
+tree   
+insert                  "89601420741"             "Homyakov Oleg Alexeevich"    
+tree 
+find             "+74474927407"   
+insert                      "+79367648042" "Suslikov Dmitry Olegovich" 
+tree   
+delete               "+72283245167"   
+tree  
+insert              "+73515638239"                    "Illarionov Mihail Timofeevich"     
+tree  
+insert                "88424173889"             "Sidorov Ivan Ivanovich"   
+tree  
+insert                "+75928895413"                   "Voblerov Alexey Fedorovich"   
+tree 
+find            "+71450080224" 
+insert          "89601420741"                     "Bobrovsky Nikolay Fedorovich" 
+tree  
+insert     "+71751178868"        "Nosik Timofey Alexandrovich"    
+tree 
+find                "83837480294"  
+insert                    "+73530186795"                             "Alburov Petr Alexeevich"     
+tree 
+insert                "84980686008"                         "Ivanov Gleb Glebovich"    
+tree   
+find         "85153317521" 
+insert            "+78097647748"                        "Voblerov Alexey Ivanovich" 
+tree  
+delete   "89183585696" 
+tree 
+insert    "85881778523"                        "Voblerov Mihail Evgenievich"   
+tree   
+find          "86422616034"  
+insert             "+74831617041"        "Nosik Stanislav Vasilievich"  
+tree   
+insert                    "+71920866753"                            "Volkov Vasily Alexeevich"  
+tree 
+find        "85153317521" 
+insert                     "+73074481955" "Vodkin Mihail Alexandrovich"  
+tree  
+find                           "+71450080224"     
+insert       "84970539382"                       "Bobrovsky Ivan Nikolaevich"     
+tree  
+insert                          "84381041858"                       "Voblerov Oleg Alexeevich"  
+tree  
+find                           "+79171106404"  
+insert             "+78382595450"                       "Suslikov Stanislav Stanislavovich" 
+tree  
+delete          "87203307875"  
+tree 
+insert       "84396988788"           "Sidorov Stanislav Olegovich"     
+tree   
+insert        "89183585696"                      "Bobrovsky Fedor Fedorovich"   
+tree   
+insert                           "+79585751215"                "Voblerov Evegeny Dmitrievich"  
+tree   
+delete                  "86016063278" 
+tree  
+insert                         "84172722548"      "Sidorov Ivan Petrovich"   
+tree  
+find                           "+78116601277" 
+insert      "+76452195509" "Voblerov Vasily Alexeevich"   
+tree  
+find      "+79919765120"    
+insert       "85671958997"          "Kulik Gleb Glebovich" 
+tree  
+insert   "+79101828233"    "Illarionov Timofey Vasilievich"     
+tree 
+find               "+75016014301"   
+insert     "85472430438"         "Vasiliev Alexandr Alexeevich"     
+tree 
+find                             "+71662447229"     
+insert                        "82783545787"       "Sidorov Timofey Evgenievich"  
+tree 
+delete  "+71689829489"     
+tree   
+insert              "+74831617041"                       "Jukovsky Alexandr Stanislavovich"  
+tree  
+delete                 "+78132883676"  
+tree   
+insert                           "+76225561187"                       "Suslikov Gleb Stanislavovich"  
+tree 
+delete                      "89928708249"     
+tree   
+insert        "89136004622"        "Illarionov Mihail Anatolievich"     
+tree  
+insert                   "+79585751215"               "Volkov Oleg Timofeevich"  
+tree  
+insert                  "+71751178868"      "Vasiliev Alexandr Nikolaevich"     
+tree   
+insert    "+76791740595"         "Nosik Oleg Mihailovich"    
+tree   
+delete                              "+75301861552"  
+tree 
+insert                     "83587291142"        "Jukovsky Alexandr Anatolievich"     
+tree 
+find                              "+71198570367"   
+insert   "83442414750"                    "Homyakov Alexandr Stanislavovich"   
+tree 
+insert                         "86200219091"             "Vodkin Timofey Alexandrovich" 
+tree   
+insert             "+78097647748"                "Vodkin Ivan Anatolievich"   
+tree 
+insert                     "82330737009"                             "Bobrovsky Gleb Stanislavovich"    
+tree   
+find                             "+71689829489"  
+insert  "+79374380449"           "Sidorov Anatoly Nikolaevich" 
+tree   
+delete "87139478308" 
+tree   
+insert                  "+74474927407"                    "Juk Stanislav Stanislavovich"     
+tree  
+delete               "+79101828233"  
+tree 
+insert                "85472430438"             "Illarionov Ivan Alexandrovich"  
+tree  
+insert                  "+78116601277" "Vodkin Alexey Timofeevich"   
+tree  
+find                             "89358099153" 
+insert                       "+78467622192"                  "Volkov Nikolay Dmitrievich"  
+tree   
+insert            "82493730753"                    "Vodkin Alexandr Stanislavovich"   
+tree 
+insert      "+79428608926"                       "Nosik Alexandr Vasilievich"     
+tree 
+insert                          "+75301861552"              "Volkov Oleg Olegovich"    
+tree 
+delete                          "+72283245167"   
+tree   
+insert                        "82719748313"                              "Jukovsky Alexandr Anatolievich" 
+tree   
+delete             "89358927355"  
+tree  
+insert                         "89601420741"                   "Suslikov Nikolay Alexandrovich"    
+tree  
+insert               "+76461255439" "Suslikov Mihail Petrovich" 
+tree 
+find      "86185705652"     
+insert              "89601420741"          "Juk Nikolay Mihailovich"    
+tree  
+delete                       "+75016014301"     
+tree  
+insert                "+73515638239"                     "Kulik Stanislav Alexandrovich"     
+tree  
+delete                     "+71920866753"   
+tree   
+insert                     "+78243099063"                 "Nosik Mihail Alexandrovich"   
+tree 
+find                "+79597309890"    
+insert                          "82493730753" "Voblerov Petr Anatolievich"   
+tree 
+find        "+78116601277"  
+insert                      "81878743541"              "Ivanov Fedor Stanislavovich" 
+tree   
+find   "+78649699780"    
+insert                 "83442414750"   "Suslikov Dmitry Nikolaevich"    
+tree  
+delete            "+72322318824"  
+tree   
+insert    "+77828651173"                    "Voblerov Mihail Petrovich"     
+tree  
+insert        "89928708249"                           "Kulik Gleb Nikolaevich"   
+tree  
+delete "83583008742" 
+tree  
+insert                           "85881778523"                 "Juk Nikolay Timofeevich"    
+tree   
+find                     "+71865948197"  
+insert                      "88424173889"                             "Vodkin Gleb Petrovich"    
+tree   
+insert                             "82330737009"                              "Homyakov Vasily Petrovich"   
+tree 
+delete                         "+76225561187" 
+tree  
+insert                     "+79101828233"                    "Alburov Ivan Timofeevich" 
+tree 
+find         "85665858243"    
+insert                       "89860981704"                             "Vodkin Gleb Timofeevich"     
+tree  
+delete                            "+72283245167"     
+tree  
+insert            "+79428608926"   "Vodkin Fedor Vasilievich"    
+tree 
+insert                             "+78032025424"                "Voblerov Dmitry Vasilievich"    
+tree   
+insert   "89838546691"                         "Bobrovsky Mihail Anatolievich"   
+tree 
+insert              "+71751178868"    "Alburov Petr Ivanovich"     
+tree 
+delete                "+75301861552"  
+tree   
+insert                       "81811430797"        "Vodkin Oleg Fedorovich" 
+tree 
+delete                            "89928708249"  
+tree  
+insert                        "83015499396"       "Nosik Nikolay Olegovich" 
+tree 
+find                  "85665858243" 
+insert "89316467686"        "Jukovsky Nikolay Dmitrievich"     
+tree   
+delete                    "+78116601277"    
+tree  
+insert                    "84172722548"     "Illarionov Vasily Vasilievich"   
+tree   
+find                "+75412950755"     
+insert                            "84970539382"                             "Kulik Alexey Fedorovich"  
+tree   
+insert                           "89993278940"                      "Homyakov Ivan Ivanovich" 
+tree  
+insert                            "+79101828233"    "Illarionov Anatoly Evgenievich"  
+tree  
+delete        "89860981704"  
+tree  
+insert                     "+73074481955"                 "Alburov Oleg Stanislavovich"    
+tree 
+delete    "89935653595"    
+tree  
+insert   "86200219091"                  "Alburov Alexey Evgenievich" 
+tree 
+insert                          "+75441490372"                      "Kulik Gleb Mihailovich"   
+tree  
+insert         "+76933582551"                      "Vasiliev Timofey Glebovich"  
+tree  
+find                "+78097647748"    
+insert                     "+76225561187"                    "Kulik Oleg Vasilievich" 
+tree 
+insert                        "84950255342"                         "Bobrovsky Alexey Fedorovich"   
+tree 
+insert "+71198570367"    "Petrov Ivan Olegovich"  
+tree   
+insert  "85472430438"      "Nosik Nikolay Nikolaevich"    
+tree   
+delete            "88424173889"   
+tree 
+insert                "+73969950798"           "Volkov Stanislav Petrovich"    
+tree 
+find                         "83435790394"   
+insert        "83587291142"                         "Kulik Evegeny Vasilievich"     
+tree 
+find                         "89993278940"  
+insert    "88244055625"                  "Alburov Nikolay Mihailovich"  
+tree 
+insert                         "84970539382"    "Vodkin Ivan Ivanovich"   
+tree  
+find        "84980686008"   
+insert     "84543905178"          "Kulik Nikolay Dmitrievich"     
+tree  
+find                       "88955846472"   
+insert               "82719748313"                          "Alburov Nikolay Anatolievich"    
+tree  
+insert               "88421411827"        "Petrov Mihail Olegovich" 
+tree   
+insert                     "88424173889"             "Homyakov Ivan Petrovich" 
+tree 
+delete                 "+78649699780"    
+tree  
+insert                      "+72719890217"                           "Bobrovsky Timofey Mihailovich" 
+tree 
+insert                       "+78116601277"                 "Juk Ivan Evgenievich"   
+tree 
+insert                     "+77250653506"                           "Voblerov Stanislav Vasilievich"   
+tree   
+insert "82800313850"                "Alburov Ivan Vasilievich"   
+tree   
+delete                              "88244055625"   
+tree   
+insert                              "+72322318824"                      "Illarionov Ivan Glebovich"    
+tree 
+find                       "84381041858"  
+insert                             "84980686008"          "Juk Ivan Alexandrovich"   
+tree  
+delete           "+79585751215" 
+tree  
+insert           "+75016014301"                      "Nosik Evegeny Alexandrovich"   
+tree  
+find            "+73530186795"  
+insert           "89993278940"    "Vodkin Dmitry Fedorovich"  
+tree  
+insert        "84590566660"                  "Volkov Stanislav Olegovich"     
+tree   
+find                        "87139478308"   
+insert                         "+77487738464"                  "Illarionov Dmitry Anatolievich"  
+tree 
+insert       "+75988782335" "Kulik Nikolay Mihailovich"   
+tree   
+insert                     "87728969686"  "Jukovsky Anatoly Stanislavovich"     
+tree   
+delete                             "+76666465634"    
+tree   
+insert              "+74831617041"                             "Suslikov Vasily Glebovich"     
+tree   
+find         "+78132883676" 
+insert     "88244055625"                             "Alburov Alexandr Alexeevich"  
+tree  
+find         "87139478308"  
+insert                         "89316467686"                             "Alburov Timofey Glebovich"  
+tree 
+insert                              "86200219091"               "Petrov Anatoly Vasilievich"     
+tree 
+delete                    "82207129228"  
+tree 
+insert             "87139478308"            "Suslikov Gleb Vasilievich"    
+tree   
+find            "81337895293"  
+insert                   "+77828651173"                     "Kulik Gleb Mihailovich"     
+tree  
+delete                    "86156561723"     
+tree  
+insert                              "86422616034"                       "Jukovsky Timofey Fedorovich" 
+tree 
+insert               "89132053069"                            "Bobrovsky Mihail Petrovich"   
+tree 
+find       "82514616639" 
+insert                            "+79597309890"           "Homyakov Stanislav Mihailovich"  
+tree 
+delete     "+79367648042" 
+tree   
+insert                              "+72719890217"                             "Homyakov Alexey Dmitrievich"   
+tree 
+find  "84613711766"     
+insert                 "84891619045"  "Bobrovsky Petr Glebovich"     
+tree   
+delete          "+73264217544"    
+tree 
+insert                            "+72322318824"             "Juk Alexey Nikolaevich"     
+tree 
+find     "+79428608926"   
+insert        "+77079024179"                             "Ivanov Stanislav Ivanovich"  
+tree  
+insert      "85665858243"        "Ivanov Petr Nikolaevich"  
+tree 
+insert                        "89316467686"                      "Vasiliev Anatoly Nikolaevich"   
+tree  
+find                   "88294521807"     
+insert                             "89838546691"                              "Volkov Dmitry Nikolaevich"  
+tree  
+delete                            "+71751178868"  
+tree   
+insert                        "+71198570367"               "Volkov Vasily Alexandrovich"   
+tree 
+delete               "+76501966544"    
+tree 
+insert                             "85671958997"          "Illarionov Petr Fedorovich"     
+tree  
+delete        "83587291142"     
+tree 
+insert      "83015499396"                              "Juk Timofey Ivanovich"    
+tree   
+insert            "+79171106404"   "Vasiliev Dmitry Alexeevich"   
+tree  
+insert    "+77545704498"   "Alburov Alexey Dmitrievich"    
+tree 
+find                         "+78382595450" 
+insert                              "82870583146"                            "Vasiliev Oleg Evgenievich"  
+tree  
+find "87139478308" 
+insert                             "89132053069"                     "Sidorov Vasily Glebovich"   
+tree  
+delete                           "+71689829489" 
+tree  
+insert                             "+75232256849"                         "Juk Ivan Mihailovich" 
+tree 
+insert "88294521807"           "Juk Anatoly Ivanovich"    
+tree  
+insert                         "+77828651173"                      "Petrov Nikolay Vasilievich"    
+tree  
+delete               "+74831617041"    
+tree 
+insert                     "86362519388"    "Alburov Stanislav Olegovich"  
+tree  
+delete                "81276522783"   
+tree  
+insert                    "89358927355"                      "Nosik Ivan Alexandrovich"   
+tree  
+find          "81337895293"    
+insert  "83583008742"      "Ivanov Nikolay Alexandrovich"     
+tree   
+find                          "83837480294"   
+insert      "89860981704"                "Voblerov Dmitry Mihailovich"     
+tree 
+insert                      "+72719890217"        "Kulik Petr Vasilievich"  
+tree  
+insert         "+71751178868"                           "Ivanov Timofey Mihailovich"    
+tree 
+delete          "+71689829489"   
+tree   
+insert                   "+79919765120"           "Kulik Vasily Alexeevich"     
+tree 
+delete                   "85671958997"   
+tree  
+insert        "85520825836"                           "Juk Stanislav Fedorovich"     
+tree  
+find       "+71450080224"    
+insert                  "84172722548"                 "Jukovsky Alexey Anatolievich" 
+tree   
+insert                             "+71198570367"               "Voblerov Alexandr Nikolaevich"     
+tree 
+find          "84543905178"     
+insert   "+78649699780"          "Homyakov Anatoly Ivanovich" 
+tree  
+find    "+75016014301" 
+insert     "+79919765120"                 "Kulik Alexandr Stanislavovich"     
+tree  
+find                          "88421411827"   
+insert       "83435790394"                  "Vodkin Nikolay Alexandrovich"    
+tree 
+find                              "84543905178"   
+insert   "+73969950798"                      "Vasiliev Gleb Mihailovich"     
+tree  
+delete              "+77192186501"     
+tree  
+insert                        "+77079024179"                 "Vasiliev Timofey Timofeevich"  
+tree   
+insert          "+77828651173"                              "Suslikov Petr Stanislavovich" 
+tree 
+delete                      "86194797128" 
+tree   
+insert                       "+73969950798"                   "Petrov Timofey Vasilievich"     
+tree   
+find "+76461255439"    
+insert                              "+76225561187" "Voblerov Vasily Alexandrovich"     
+tree 
+delete                             "+74435963002"     
+tree   
+insert           "+77079024179"              "Sidorov Alexandr Evgenievich"    
+tree  
+find       "82870583146"    
+insert                           "83015499396"                           "Juk Alexey Mihailovich"    
+tree  
+find                            "+76501966544"  
+insert           "85665858243"        "Volkov Nikolay Petrovich"     
+tree 
+find                            "+76791740595"  
+insert                              "+77250653506"                   "Petrov Stanislav Nikolaevich"   
+tree 
+delete             "+79045199303"    
+tree   
+insert                        "87682353141"                        "Suslikov Mihail Stanislavovich"     
+tree  
+insert          "+78116601277"           "Sidorov Alexandr Glebovich"  
+tree  
+delete                     "89183585696"    
+tree 
+insert                            "+74705734439"                         "Vodkin Evegeny Alexandrovich"   
+tree 
+find                "89316467686"    
+insert                "81276522783"          "Nosik Oleg Anatolievich" 
+tree   
+find          "87139478308"    
+insert              "+79171106404"       "Bobrovsky Alexey Timofeevich"  
+tree 
+insert                           "86581985624"            "Homyakov Evegeny Glebovich"  
+tree  
+delete      "87682353141"     
+tree 
+insert    "84125410081"     "Voblerov Petr Stanislavovich"  
+tree 
+delete        "82493730753"   
+tree 
+insert                   "89358099153"                 "Bobrovsky Evegeny Petrovich"     
+tree   
+find               "84613711766"   
+insert                        "87682353141"                        "Vasiliev Fedor Olegovich"    
+tree 
+delete                          "+79428608926" 
+tree  
+insert             "+73307872264" "Vodkin Oleg Nikolaevich" 
+tree 
+insert "+75988782335"                       "Bobrovsky Ivan Nikolaevich"    
+tree   
+find         "+77487738464"   
+insert      "84396988788"  "Voblerov Oleg Fedorovich"  
+tree 
+insert          "83442414750"                          "Illarionov Ivan Olegovich"     
+tree  
+delete                "84613711766"  
+tree   
+insert                         "+76933582551"          "Jukovsky Anatoly Petrovich"   
+tree 
+delete                            "83015499396"  
+tree  
+insert "+75301861552"       "Homyakov Anatoly Ivanovich"    
+tree  
+find      "+74831617041"     
+insert        "81337895293"                          "Vodkin Evegeny Vasilievich"    
+tree 
+insert              "+74705734439"   "Homyakov Nikolay Glebovich"     
+tree   
+insert     "84379193189"                           "Illarionov Stanislav Alexeevich"    
+tree   
+insert                     "88984955725"                            "Homyakov Vasily Stanislavovich"  
+tree   
+insert                       "+72101922192"                      "Jukovsky Timofey Olegovich" 
+tree 
+insert                "+78097647748"  "Vasiliev Anatoly Vasilievich"     
+tree 
+insert       "+72719890217"                     "Bobrovsky Petr Fedorovich"     
+tree   
+find                            "82719748313"   
+insert                       "+79374380449"          "Kulik Ivan Glebovich"   
+tree  
+delete                            "+78382595450"    
+tree 
+insert                              "+75301861552"                 "Petrov Ivan Mihailovich"    
+tree  
+delete                             "83015499396" 
+tree   
+insert                   "+79374380449"                 "Alburov Timofey Olegovich"   
+tree 
+delete     "89132053069"  
+tree 
+insert      "+75301861552"                    "Voblerov Oleg Fedorovich"     
+tree 
+delete                    "82800313850"     
+tree  
+insert              "+71865948197"                      "Jukovsky Anatoly Stanislavovich"     
+tree 
+insert                   "+73307872264"                    "Vasiliev Alexey Olegovich" 
+tree  
+delete                   "89860981704" 
+tree   
+insert       "82870583146"                     "Kulik Dmitry Nikolaevich" 
+tree  
+insert                    "84590566660"                              "Petrov Timofey Evgenievich"     
+tree   
+find                            "88421411827"  
+insert                             "+71450080224"                  "Volkov Ivan Olegovich"     
+tree   
+find                             "+79374380449"  
+insert                          "85559660090"                            "Nosik Nikolay Evgenievich"     
+tree  
+find         "86016063278"     
+insert                        "84412940826"                            "Sidorov Vasily Dmitrievich"    
+tree  
+insert     "+79171106404"  "Bobrovsky Fedor Anatolievich" 
+tree   
+delete                       "82719748313"    
+tree  
+insert                          "81878743541"                          "Volkov Oleg Olegovich" 
+tree 
+delete              "84381041858"   
+tree   
+insert  "+79045199303"                            "Ivanov Anatoly Mihailovich"    
+tree   
+delete                      "87027376302" 
+tree  
+insert                   "+78467622192"           "Illarionov Vasily Petrovich"    
+tree   
+delete                "89601420741"  
+tree 
+insert           "86194797128"           "Vasiliev Vasily Olegovich" 
+tree  
+insert            "84950255342"                           "Suslikov Evegeny Evgenievich" 
+tree   
+delete                 "+77079024179" 
+tree  
+insert             "+78097647748"                              "Jukovsky Fedor Vasilievich"     
+tree   
+find        "84313650002"    
+insert                          "88955846472"         "Sidorov Timofey Alexeevich"  
+tree 
+find                           "81811430797"  
+insert     "85671958997"                "Bobrovsky Anatoly Ivanovich"   
+tree  
+find   "+73125807072"  
+insert                    "+72719890217"             "Jukovsky Nikolay Glebovich"  
+tree   
+insert     "+79182828877"                      "Suslikov Alexandr Timofeevich"     
+tree   
+delete     "+73307872264" 
+tree 
+insert                  "89316467686"                         "Kulik Mihail Alexeevich"  
+tree 
+find                          "+75232256849" 
+insert                             "85153317521"               "Alburov Timofey Alexandrovich"    
+tree 
+delete                "88657986043" 
+tree   
+insert                          "+75301861552"                        "Kulik Vasily Mihailovich" 
+tree   
+insert         "+79374380449"                           "Sidorov Alexey Alexeevich"     
+tree 
+delete                    "81276522783"   
+tree  
+insert                         "+76933582551"                              "Vodkin Gleb Olegovich"  
+tree   
+insert                      "89860981704"  "Alburov Petr Timofeevich"  
+tree 
+find                           "+74435963002"     
+insert                  "+75301861552"                    "Vodkin Vasily Evgenievich"   
+tree   
+find            "+75829574804"   
+insert      "86194797128"        "Nosik Oleg Petrovich"  
+tree  
+delete                      "84891619045"    
+tree   
+insert       "+77250653506"                        "Voblerov Dmitry Stanislavovich"     
+tree   
+delete               "83583008742" 
+tree  
+insert  "+75043820325"                              "Petrov Nikolay Evgenievich" 
+tree   
+insert    "87682353141"                           "Vasiliev Timofey Evgenievich"   
+tree 
+insert           "+73116074349"                          "Voblerov Petr Fedorovich"     
+tree   
+find     "87077229483"   
+insert               "83435790394"                "Bobrovsky Oleg Anatolievich"  
+tree   
+find      "89799741553"  
+insert        "87139478308"                         "Kulik Vasily Ivanovich"    
+tree 
+find           "84381041858"     
+insert       "+79504006819"              "Vasiliev Anatoly Vasilievich"  
+tree 
+insert               "+78132883676"                 "Voblerov Stanislav Petrovich"   
+tree  
+find                          "87027376302"   
+insert "89316467686"                       "Suslikov Fedor Alexeevich"     
+tree 
+delete                 "83587291142"     
+tree   
+insert         "+78243099063"      "Illarionov Nikolay Timofeevich"   
+tree   
+find                         "89993278940"     
+insert                        "89935653595"             "Illarionov Anatoly Glebovich"   
+tree 
+find              "81811430797" 
+insert   "+78116601277"               "Suslikov Oleg Vasilievich"    
+tree 
+insert  "+77828651173"                            "Illarionov Oleg Nikolaevich"     
+tree 
+delete                             "+79597309890"  
+tree 
+insert                      "86194797128"                      "Voblerov Timofey Glebovich"    
+tree  
+find                    "+75016014301" 
+insert                         "+75441490372"                      "Juk Fedor Petrovich"  
+tree 
+insert     "85671958997"                  "Suslikov Alexandr Ivanovich"    
+tree 
+delete                  "+79566751760"     
+tree   
+insert          "81337895293"                        "Illarionov Mihail Nikolaevich"  
+tree   
+insert                   "+74435963002"                              "Ivanov Stanislav Alexandrovich"  
+tree   
+find                   "+76791740595"     
+insert                            "84396988788"           "Kulik Alexey Glebovich"     
+tree   
+find                      "+74435963002" 
+insert                              "88984955725"                            "Kulik Alexey Evgenievich" 
+tree  
+insert                       "89993278940"                  "Sidorov Nikolay Mihailovich"     
+tree 
+find                 "86200219091" 
+insert                         "89183585696" "Voblerov Alexey Stanislavovich"  
+tree   
+insert                        "+78032025424" "Ivanov Dmitry Nikolaevich"  
+tree   
+insert                  "89601420741"              "Volkov Oleg Alexeevich"   
+tree   

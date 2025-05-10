@@ -1,0 +1,14 @@
+tree:(null)
+insert:success
+tree:("+79001234567")
+insert:e_exist
+insert:success
+tree:((null),"+79001234567",("+79001234568"))
+insert:success
+tree:(("89001234566"),"+79001234567",("+79001234568"))
+incorrect
+tree:(("89001234566"),"+79001234567",("+79001234568"))
+delete:success
+tree:((null),"+79001234567",("+79001234568"))
+find:"Pertov E.E."
+tree:((null),"+79001234567",("+79001234568"))
